@@ -13,12 +13,15 @@ Rental Options: Users can choose to rent a car, reserve it for later, or opt for
 
 ## Usage
 1. Clone the repository to your local machine:
+   
   git clone https://github.com/loharprathamesh11/car-rental-system.git
-2. Compile the code using a C++ compiler:
+3. Compile the code using a C++ compiler:
+
   g++ car_rental_system.cpp -o car_rental_system
-3. Run the compiled program:
+4. Run the compiled program:
+
   ./car_rental_system
-4. Follow the on-screen instructions to register/login, view cars, make reservations, and get recommendations.
+5. Follow the on-screen instructions to register/login, view cars, make reservations, and get recommendations.
 
 ## Requirements
 C++ compiler (e.g., g++)
