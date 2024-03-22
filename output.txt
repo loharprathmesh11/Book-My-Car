@@ -1,0 +1,109 @@
+IF YOU ARE REGISTERED USER
+ENTER 1 FOR YES
+ENTER 0 FOR NO
+0
+||---------Registration Form------||
+
+ Enter your name: Prathamesh
+Enter your mobile No: 7058100202
+Enter your age: 21
+Create a username: Prathaml2002
+Create a password: P@5sword
+Enter the same password: P@5sword
+
+<--------LOGIN FORM-------->
+
+
+ENTER THE USERNAME
+Prathaml2002
+ENTER Phone_no
+7058100202
+Enter Password
+P@5sword
+
+
+*-------------------------------*
+  Welcome to Car Rental System
+*-------------------------------*
+ 1. Show all cars
+ 2. Car Enquiry
+ 3. Rent a car
+ 4. Our recommendation
+ 5. Exit
+ Enter your choice : 1
+ 1. Tata
+ 2. Tesla
+ 3. BMW
+ 4. Audi
+ 5. Lamborghini
+ 6. Rolls Royce
+ 7. Electric (Ola S1 , S1 pro)
+*-------------------------------*
+  Welcome to Car Rental System
+*-------------------------------*
+ 1. Show all cars
+ 2. Car Enquiry
+ 3. Rent a car
+ 4. Our recommendation
+ 5. Exit
+ Enter your choice : 2
+ Get in touch
+ Call us at 9910010011
+ Mail us at carrentalsys@gmail.com
+ Visit our website www.rentyurcar.com
+*-------------------------------*
+  Welcome to Car Rental System
+*-------------------------------*
+ 1. Show all cars
+ 2. Car Enquiry
+ 3. Rent a car
+ 4. Our recommendation
+ 5. Exit
+ Enter your choice : 3
+ 1. Tata
+ 2. Tesla
+ 3. BMW
+ 4. Audi
+ 5. Lamborghini
+ 6. Rolls Royce
+ 7. Electric (Ola S1 , S1 pro) 
+ Enter your car choice : 2
+
+ You have selected Tesla
+Enter distance to be travelled
+120
+Total Rent will be ₹1800
+
+ Enter your Pick-up location : Pune
+ Enter your Drop location : Satara
+
+ 1. Rentals
+ 2. Reserve
+ 3. Intercity
+ Select your Type 1
+
+ You have selected Rentals
+*-------------------------------*
+  Welcome to Car Rental System
+*-------------------------------*
+ 1. Show all cars
+ 2. Car Enquiry
+ 3. Rent a car
+ 4. Our recommendation
+ 5. Exit
+ Enter your choice : 4
+ Enter the number of passengers : 4
+ Enter the number of babies : 2
+
+ We would recommend SUV , Sedan
+ Baby on the board
+*-------------------------------*
+  Welcome to Car Rental System
+*-------------------------------*
+ 1. Show all cars
+ 2. Car Enquiry
+ 3. Rent a car
+ 4. Our recommendation
+ 5. Exit
+ Enter your choice : 5
+Thank You for Visiting
