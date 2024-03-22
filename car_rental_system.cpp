@@ -64,7 +64,7 @@ class car: public locatiion     // Class Car
 void Kharcha(Bill r , car t,int j){
     t.dist();
     r.setdata();
-    cout<<"Total Rent will be"<<((t.distance)*(r.rate[j-1]))<<endl;
+    cout<<"Total Rent will be ₹"<<((t.distance)*(r.rate[j-1]))<<endl;
 }
 // class driver
 // {
@@ -317,7 +317,7 @@ int main()
     int d;
     cout<<"IF YOU ARE REGISTERED USER\n"
         <<"ENTER 1 FOR YES\n"
-        <<"ELSE 0\n";
+        <<"ENTER 0 FOR NO\n";
     cin>>d;
     if(d==1){
       c1.login();
