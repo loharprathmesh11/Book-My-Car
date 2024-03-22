@@ -12,23 +12,23 @@ Welcome to the Car Rental System! This project is a simple implementation of a c
 ## Usage
 1. Clone the repository to your local machine:
    
-  ```bash
+   ```bash
      git clone https://github.com/loharprathamesh11/car-rental-system.git
-  ```
+   ```
 
-3. Compile the code using a C++ compiler:
+2. Compile the code using a C++ compiler:
 
    ```bash
      g++ car_rental_system.cpp -o car_rental_system
    ```
 
-4. Run the compiled program:
+3. Run the compiled program:
    
    ```bash
      ./car_rental_system
    ```
 
-5. Follow the on-screen instructions to register/login, view cars, make reservations, and get recommendations.
+4. Follow the on-screen instructions to register/login, view cars, make reservations, and get recommendations.
 
 ## Requirements
 C++ compiler (e.g., g++)
