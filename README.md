@@ -1,7 +1,7 @@
-# Car-Rental-System
+# Book-My-Car
 
 ## Overview
-Welcome to the Car Rental System! This project is a simple implementation of a car rental system using C++. It allows users to register, login, view available cars, make rental reservations, and get recommendations based on their requirements.
+Welcome to the Book-My-Car! This project is a simple implementation of a car rental system using C++. It allows users to register, login, view available cars, make rental reservations, and get recommendations based on their requirements.
 
 ## Features
 - User Registration and Login: Users can register with their name, mobile number, age, username, and password. They can then log in using their credentials.
@@ -13,19 +13,19 @@ Welcome to the Car Rental System! This project is a simple implementation of a c
 1. Clone the repository to your local machine:
    
    ```bash
-     git clone https://github.com/loharprathamesh11/car-rental-system.git
+     git clone https://github.com/loharprathamesh11/Book-My-Car.git
    ```
 
 2. Compile the code using a C++ compiler:
 
    ```bash
-     g++ car_rental_system.cpp -o car_rental_system
+     g++ Book-My-Car.cpp -o car_rental_system
    ```
 
 3. Run the compiled program:
    
    ```bash
-     ./car_rental_system
+     ./Book-My-Car
    ```
 
 4. Follow the on-screen instructions to register/login, view cars, make reservations, and get recommendations.
